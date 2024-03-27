@@ -1,2 +1,2 @@
 # OptiHIT
-Optimal High-resolution Image Transportation
+Optimal High-resolution Image Transport
